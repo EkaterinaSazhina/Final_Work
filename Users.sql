@@ -33,7 +33,6 @@ CREATE TABLE Camels (
     name VARCHAR(50) NOT NULL,
     birthDate DATE NOT NULL,
     commands VARCHAR(200) NOT NULL
-    
 );
 
 CREATE TABLE Donkeys (
