@@ -17,7 +17,8 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
    ![Снимок3](./screenshot/Снимок3.JPG)
 4. История команд в терминале Ubuntu
    - Сохранить и выложить историю ваших терминальных команд в Ubuntu.
-   
+   ![Снимок4](./screenshot/Снимок4.JPG)
+
 ### *Объектно-ориентированное программирование*
 
 1. Диаграмма классов
